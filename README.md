@@ -6,6 +6,7 @@ the pattern is chosen, ask the user to enter a number between 1-10 to choose the
 pattern (for pattern 3, must choose the number of lines to be odd; keep asking user until an odd number is
 supplied). When both inputs are received from the user, display the appropriate pattern.
 
+```
 
 Pattern 1:
         *
@@ -35,7 +36,7 @@ Pattern 4:
      1 2 4 2 1
    1 2 4 8 4 2 1
  1 2 4 8 16 8 4 2 1
- 
+ ```
  For a youtube demonstration on the code
  It is posted on my personal youtube:
  
